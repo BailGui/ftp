@@ -68,7 +68,7 @@ html{
 background-image: url(travaildinte.jpg);
 
     /* Set a specific height */
-    min-height: 2000px;
+    min-height: 780px;
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -80,8 +80,22 @@ background-image: url(travaildinte.jpg);
     padding: 0;
   }
 
+  .parallax2{
+    background-image: url(Ti2.jpg);
+
+    /* Set a specific height */
+    min-height: 885px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
   .prefo{
-    font-family: 'seasrn';
+    font-family: 'roboto';
     -webkit-text-stroke: 2px; /* grandeur du contour de la typo */
     -webkit-text-stroke-color: rgb(58, 87, 248); /* couleur du contour de la typo */
     color: gold; /* couleur de la typo */
@@ -90,8 +104,8 @@ background-image: url(travaildinte.jpg);
   }
 
   .ti{
-    font-family: 'seasrn';
+    font-family: 'roboto';
     text-align: center;
     padding-top: 10px;
-    padding-bottom: 0;
+    padding-bottom: 0px;
   }
