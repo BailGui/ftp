@@ -1,15 +1,15 @@
 @font-face{  
     font-family: 'martyric';
-    src: url('martyric-webfont.woff') format('woff'),
-         url('martyric-webfont.woff2') format('woff2');
+    src: url('../font/martyric-webfont.woff') format('woff'),
+         url('../font/martyric-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'roboto';
-    src: url('robotocondensed-regular-webfont.woff2') format('woff2'),
-         url('robotocondensed-regular-webfont.woff') format('woff');
+    src: url('../font/robotocondensed-regular-webfont.woff2') format('woff2'),
+         url('../font/robotocondensed-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -17,8 +17,8 @@
 
 @font-face {
     font-family: 'seasrn';
-    src: url('seasrn__-webfont.woff2') format('woff2'),
-         url('seasrn__-webfont.woff') format('woff');
+    src: url('../font/seasrn__-webfont.woff2') format('woff2'),
+         url('../font/seasrn__-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -31,7 +31,7 @@ html{
 
 .parallax0 {
     /* The image used */
-  background-image: url(projet.png);
+  background-image: url(../img/projet.png);
 
     /* Set a specific height */
     min-height: 850px;
@@ -48,7 +48,7 @@ html{
 
 .parallax {
     /* The image used */
-  background-image: url(siteprefo.png);
+  background-image: url(../img/siteprefo.png);
 
     /* Set a specific height */
     min-height: 780px;
@@ -65,7 +65,7 @@ html{
 
   .parallax1 {
     /* The image used */
-background-image: url(travaildinte.jpg);
+background-image: url(../img/travaildinte.jpg);
 
     /* Set a specific height */
     min-height: 780px;
@@ -81,7 +81,7 @@ background-image: url(travaildinte.jpg);
   }
 
   .parallax2{
-    background-image: url(Ti2.jpg);
+    background-image: url(../img/Ti2.jpg);
 
     /* Set a specific height */
     min-height: 885px;
