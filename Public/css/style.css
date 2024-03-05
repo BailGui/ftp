@@ -104,10 +104,9 @@ background-image: url(../img/travaildinte.jpg);
     -webkit-text-stroke-color: rgb(58, 87, 248); /* couleur du contour de la typo */
     color: gold; /* couleur de la typo */
     text-align: center;
-    margin: 0;
-    padding: 0;
-    background-color: black;
-    font-size: 56px
+    padding: 10px;
+    background-color: rgba(143, 9, 9, 0.763);
+    font-size: 76px
   }
 
   .ti{
