@@ -30,13 +30,8 @@ html{
 }
 
 .parallax0 {
-    /* The image used */
   background-image: url(../img/projet2.jpg);
-
-    /* Set a specific height */
     min-height: 780px;
-
-    /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -48,13 +43,11 @@ html{
   }
 
 .parallax {
-    /* The image used */
+  
   background-image: url(../img/siteprefo2.jpg);
 
-    /* Set a specific height */
+    
     min-height: 780px;
-
-    /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -65,13 +58,13 @@ html{
   }
 
   .parallax1 {
-    /* The image used */
+   
 background-image: url(../img/travaildinte.jpg);
 
-    /* Set a specific height */
+    
     min-height: 780px;
 
-    /* Create the parallax scrolling effect */
+    
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -84,10 +77,9 @@ background-image: url(../img/travaildinte.jpg);
   .parallax2{
     background-image: url(../img/Ti2.jpg);
 
-    /* Set a specific height */
+   
     min-height: 780px;
 
-    /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -100,9 +92,9 @@ background-image: url(../img/travaildinte.jpg);
 
   .prefo{
     font-family: 'roboto';
-    -webkit-text-stroke: 2px; /* grandeur du contour de la typo */
-    -webkit-text-stroke-color: rgb(58, 87, 248); /* couleur du contour de la typo */
-    color: gold; /* couleur de la typo */
+    -webkit-text-stroke: 2px; 
+    -webkit-text-stroke-color: rgb(58, 87, 248); 
+    color: gold; 
     text-align: center;
     padding: 10px;
     background-color: rgba(143, 9, 9, 0.763);
@@ -121,7 +113,7 @@ background-image: url(../img/travaildinte.jpg);
 
   .ti2{
     font-family: 'roboto';
-    color: rgb(17, 16, 9); /* couleur de la typo */
+    color: rgb(17, 16, 9);
     text-align: center;
     padding-top: 10px;
     padding-bottom: 0px;
