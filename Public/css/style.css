@@ -31,7 +31,7 @@ html{
 
 .parallax0 {
   background-image: url(../img/projet2.jpg);
-    min-height: 780px;
+    min-height: 880px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -44,10 +44,10 @@ html{
 
 .parallax {
   
-  background-image: url(../img/siteprefosvg.svg);
+  background-image: url(../img/siteprefo.svg);
 
     
-    min-height: 780px;
+    min-height: 880px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -59,10 +59,10 @@ html{
 
   .parallax1 {
    
-background-image: url(../img/travaildinte.jpg);
+background-image: url(../img/Ti1.svg);
 
     
-    min-height: 780px;
+    min-height: 880px;
 
     
     background-attachment: fixed;
